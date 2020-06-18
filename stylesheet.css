@@ -18,8 +18,8 @@ a {
 }
 
 .top-wrapper {
-  padding: 250px 0 170px 0;
-  background-image: url(IMG_6500.jpg);
+  padding: 300px 0 270px 0;
+  background-image: url(IMG_6D9F37010FF9-1.jpeg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -285,6 +285,10 @@ footer {
     font-size: 24px;
   }
 
+  .top-wrapper h2 {
+    font-size: 24px;
+  }
+
   .top-wrapper p {
     font-size: 14px;
   }
@@ -292,6 +296,9 @@ footer {
   .lesson {
     width: 100%;
   }
+.lesson-icon p{
+  font-size: 15px;
+}
 
   .lesson-wrapper {
     height: 1700px;
@@ -299,5 +306,11 @@ footer {
 
   .message-wrapper .btn {
     width: 100%;
+  }
+  .heading h4{
+    width:100%;
+  }
+  .heading h5{
+    width:100%;
   }
 }
