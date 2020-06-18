@@ -264,6 +264,9 @@ footer {
   .header-right {
     display: none;
   }
+.top-wrapper{
+  background-image: url(IMG_E87FE7F5D756-1.jpeg);
+}
 
   .menu-icon {
     display: block;
